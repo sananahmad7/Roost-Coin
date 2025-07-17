@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('/src/assets/fonts/Superfats-6PRM.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Reusable class you can apply wherever needed */
+.custom-font {
+  font-family: 'MyFont', sans-serif;
+}
