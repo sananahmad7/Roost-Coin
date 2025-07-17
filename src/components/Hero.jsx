@@ -23,7 +23,7 @@ function Hero() {
                 </div>
 
                 {/* Title */}
-                <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-white to-amber-300 bg-clip-text text-transparent">
+                <h1 className="text-6xl custom-font mb-4 bg-gradient-to-r from-white to-amber-300 bg-clip-text text-transparent">
                     Based Roost
                 </h1>
 

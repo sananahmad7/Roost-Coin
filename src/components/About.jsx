@@ -15,8 +15,8 @@ function About() {
             <div className="relative z-10 flex flex-col items-center justify-center min-h-screen text-white px-4 py-16">
 
                 {/* Section Heading */}
-                <h2 className="text-5xl md:text-6xl font-bold mb-12 bg-gradient-to-r from-white to-amber-300 bg-clip-text text-transparent text-center">
-                    About Based Myro
+                <h2 className="text-5xl md:text-6xl custom-font mb-12 bg-gradient-to-r from-white to-amber-300 bg-clip-text text-transparent text-center">
+                    About Based Roost
                 </h2>
 
                 {/* Content Container */}
