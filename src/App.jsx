@@ -17,9 +17,9 @@ function App() {
   return (
     <div className='h-screen overflow-y-auto'>
       <Header />
-      <Hero />
-      <About />
-      <Products />
+      <Hero id="hero" />
+      <About id="about" />
+      <Products id="products" />
       <Footer />
     </div>
 

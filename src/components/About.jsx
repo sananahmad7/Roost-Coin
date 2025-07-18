@@ -1,8 +1,8 @@
 import React from 'react'
 
-function About() {
+function About({ id }) {
     return (
-        <div className="relative w-full min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
+        <div id={id} className="relative w-full min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
             {/* Animated background elements - different positions for variety */}
             <div className="absolute inset-0 overflow-hidden">
                 <div className="absolute top-32 right-20 w-40 h-40 bg-blue-500/15 rounded-full animate-pulse"></div>
